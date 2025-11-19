@@ -1,6 +1,5 @@
 
 ## main.py
-```python
 """
 HW02 — Courier Handoffs (BFS Shortest Path)
 
